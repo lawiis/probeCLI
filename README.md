@@ -104,6 +104,9 @@ python3 probe.py https://codecraftapi.com/v1 cc_xxx --json > models.json
   "results": [{ "id": "gpt-5.5-pro", "provider": "CodeCraft API", "status": "ok", "code": 200, "latency_ms": 3873, "error": "" }]
 }
 ```
+## Preview
+
+![JSON Output Preview](json-prev.png)
 
 ### Tips
 
