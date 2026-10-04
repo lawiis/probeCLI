@@ -1,7 +1,5 @@
 # Provider Probe
 
-![Preview](prev.png)
-
 Check any OpenAI-compatible provider — just **Base URL + API Key**. List models, test connectivity, and get a clean summary. Stdlib only, no install needed.
 
 ## Preview
